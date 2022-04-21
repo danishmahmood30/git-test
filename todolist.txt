@@ -1,9 +1,15 @@
 Object A
 Object B
 Object C
+<<<<<<< HEAD
 Number 1
 Number 2
 Number 3
 Object D
 Object E
 Object F
+=======
+Object D
+Object E
+Object F
+>>>>>>> 917afbe8df8e318d55aac09a2cc9182cbd53dc22
