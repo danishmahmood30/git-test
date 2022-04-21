@@ -4,3 +4,5 @@ Object C
 Number 1
 Number 2
 Number 3
+Object D
+Object E
