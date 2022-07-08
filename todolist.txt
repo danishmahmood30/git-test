@@ -3,3 +3,4 @@ Object B
 Object C
 <<<<<<< HEAD
 Commit 1
+test
